@@ -10,7 +10,7 @@ for bucket in response['Buckets']:
     print(f" - {bucket['Name']}")
 
 # Replace with your bucket and file info
-bucket_name = 'your-bucket-name'
+bucket_name = 'sdfghjk'
 upload_file_path = 'path/to/local/file.txt'
 download_file_path = 'path/to/save/file.txt'
 s3_key = 'uploaded-file.txt'
