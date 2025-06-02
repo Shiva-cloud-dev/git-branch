@@ -1,4 +1,4 @@
-import boto3
+import boto5
 
 # Initialize S3 client
 s3 = boto3.client('s3')
